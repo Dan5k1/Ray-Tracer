@@ -1,5 +1,5 @@
 # Ray-Tracer
-A fully functioning Ray Tracing program built from scratch in C++ by me. Unfortunately I should not publish the code openly to the public as per the request of my lovely professor, but I can show image outputs from the program and privately show the code to interested parties.
+A fully functioning Ray Tracing program built from scratch in C++ by me. This project is a great example of the marriage of mathematics and progeramming. It required a working knowledge of linear algebra, C++, OOP and algorithms. It was a very satisfying project to work on as the results are very visual and speak for themselves. 
 
 Sample outputs from the raytracer:
 
